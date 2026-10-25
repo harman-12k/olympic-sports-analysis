@@ -1,3 +1,4 @@
+
 # Global Olympic Sports Performance Analysis
 
 A beginner-friendly data analytics project using Python, Pandas, Plotly and Streamlit. It displays medal trends, top countries, sport-wise medals, medal type distribution, and filterable data.
@@ -67,3 +68,4 @@ The same project can also be built in Tableau Public:
 - Story points: country performance, sport investment/efficiency, and long-term trends.
 
 The included Streamlit app is a working web-dashboard version. If the SkillWallet task specifically requires Tableau Public, also create and publish the Tableau workbook; a Streamlit URL alone may not satisfy that requirement.
+
